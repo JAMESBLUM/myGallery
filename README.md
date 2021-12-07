@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot]('build/img/overview.png')
+![screenshot](https://github.com/JAMESBLUM/myGallery/blob/master/build/img/overview.PNG)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
