@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+}
+body{
+    font-size: 1.6rem;
+    font-family: $font;
+}
+.container{
+    max-width: 120rem;
+    width: 80%;
+    margin: 0 auto;
+    @include desktop{
+        width: 55%;
+    }
+}
+.centrarTexto{text-align: center;}
+h1,h2,h3,h4,h5{margin: 0;}
+p{margin: 1rem 0;}
+span{color:$grey; font-weight: $bold;}
+img{width: 100%;}
+a{font-style: none;}
+.copy{color: $grey; }
+  
